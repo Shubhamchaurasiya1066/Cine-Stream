@@ -51,6 +51,10 @@ Get free API key from:
 https://developer.themoviedb.org
 
 ---
+# Live Link
+[(https://cine-stream-brown.vercel.app/)]
+
+---
 🎥 Trailer Feature
 
 Clicking on a movie card opens a YouTube trailer modal.
