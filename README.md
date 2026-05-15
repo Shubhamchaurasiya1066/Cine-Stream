@@ -60,8 +60,8 @@ Clicking on a movie card opens a YouTube trailer modal.
 
 Fully responsive for:
 
-Desktop
-Tablet
+Desktop,
+Tablet,
 Mobile
 
 ---
